@@ -4,7 +4,7 @@
     "name": "Sergi Alvarez"
   },
   "bugs": {
-    "url": "https://github.com/viaforensics/node-macho-entitlements/issues"
+    "url": "https://github.com/nowsecure/node-macho-entitlements/issues"
   },
   "dependencies": {
     "macho": "1.0.0",
@@ -31,7 +31,7 @@
   "readme": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/viaforensics/node-macho-entitlements.git"
+    "url": "git+ssh://git@github.com/nowsecure/node-macho-entitlements.git"
   },
-  "version": "0.1.0"
+  "version": "0.2.0"
 }
