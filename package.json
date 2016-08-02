@@ -1,0 +1,37 @@
+{
+  "author": {
+    "email": "salvarez@nowsecure.com",
+    "name": "Sergi Alvarez"
+  },
+  "bugs": {
+    "url": "https://github.com/viaforensics/node-macho-entitlements/issues"
+  },
+  "dependencies": {
+    "macho": "1.0.0",
+    "fatmacho": "0.1.1"
+  },
+  "description": "extract entitlements from mach-o binaries",
+  "homepage": "https://lab.nowsecure.com",
+  "keywords": [
+    "mach-o",
+    "mac",
+    "executable",
+    "entitlements",
+    "format"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "salvarez@nowsecure.com",
+      "name": "Sergi Alvarez"
+    }
+  ],
+  "name": "macho-entitlements",
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/viaforensics/node-macho-entitlements.git"
+  },
+  "version": "0.1.0"
+}
